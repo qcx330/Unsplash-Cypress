@@ -1,0 +1,12 @@
+.vscode
+mochawesome-report
+node_modules
+results
+index.json
+cypress/screenshots
+.idea
+allure-report
+mochawesome.json
+cypress/downloads
+runner-results
+multi-reporter-config.json
